@@ -1,0 +1,125 @@
+header {
+    font-family: 'Russo One', sans-serif;
+    min-height: 100px;
+    background: #4D4D4D;
+}
+
+.header_head h1 {
+    color: white;
+    font-size: 30px;
+}
+
+.header_head h1:hover {
+    color: blue;
+}
+
+.header_head p {
+    color: red;
+    font-size: 25px;
+}
+
+.custom_nav {
+    font-family: 'Russo One', sans-serif;
+    padding: 20px 0;
+}
+
+.custom_nav ul li a {
+    font-size: 20px;
+    color: white !important;
+}
+
+.custom_nav ul li a:hover {
+    color: orangered !important;
+}
+
+
+.btn {
+    color: white !important;
+}
+
+.count_x {
+    padding: 100px 0;
+    min-height: 570px;
+    background-image: url(../images/pexels-photo-1040499.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.counter {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.count_x {
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    color: chartreuse;
+    font-size: 30px;
+
+}
+
+.tvc {
+    font-family: 'Russo One', sans-serif;
+    padding: 150px 0;
+}
+
+.tvc h1 {
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: orangered;
+    font-size: 20px;
+}
+
+.count_y {
+    padding: 100px 0;
+    min-height: 570px;
+    background-image: url(../images/y.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.count_y h1 {
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+
+.tvc2 {
+    padding: 150px 0;
+}
+
+.tvc2 h1 {
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.dottt {
+    min-height: 570px;
+    background-image: url(../images/1258408963339.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dotCircle {}
+
+.dotCircle .itemDot {
+    font-family: 'Mina', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ost {}
+
+.carousel-item {}
+
+.carousel-item .carousel-caption {
+    font-family: 'Russo One', sans-serif;
+    font-size: 100px !important;
+    font-weight: 700;
+    color: yellow !important;
+}

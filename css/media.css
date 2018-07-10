@@ -1,0 +1,203 @@
+@media (min-width: 1200px) {
+
+    .ost {
+        margin-top: 20px;
+    }
+    .count_y {
+        background-size: cover;
+    }
+    .dottt {
+        margin-top: 20px;
+    }
+    .count_y {
+        margin-top: 20px;
+
+    }
+    .sliding {
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .ost {
+        margin-top: 20px;
+    }
+    .count_y {
+        background-size: cover;
+    }
+    .dottt {
+        margin-top: 20px;
+    }
+    .count_y {
+        margin-top: 20px;
+
+    }
+    .sliding {
+        margin-top: 20px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .ost {
+        margin-top: 20px;
+    }
+    .count_y {
+        background-size: cover;
+    }
+    .dottt {
+        margin-top: 20px;
+    }
+    .count_y {
+        margin-top: 20px;
+
+    }
+    .sliding {
+        margin-top: 20px;
+    }
+
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .ost {
+        margin-top: 20px;
+    }
+    .count_y {
+        background-size: cover;
+    }
+    .dottt {
+        margin-top: 20px;
+    }
+    .count_y {
+        margin-top: 20px;
+
+    }
+    .sliding {
+        margin-top: 20px;
+    }
+
+    .count_y h1 {
+        font-family: 'Monoton', cursive;
+        text-align: center;
+        color: red;
+        font-size: 20px;
+    }
+    .counter {
+        font-size: 18px;
+        font-weight: bold;
+        color: white;
+    }
+    .tvc2 {
+        padding: 90px 0;
+    }
+    .tvc2 h1 {
+        font-family: 'Russo One', sans-serif;
+        text-align: center;
+        color: orangered;
+        font-size: 17px;
+    }
+    .count_y {
+        padding: 50px 0;
+        min-height: 300px;
+        background-image: url(../images/y.png);
+        background-repeat: no-repeat;
+    }
+    .dotCircle {
+        margin-bottom: 50px !important;
+    }
+    .contentCircle {
+        top: 200px !important;
+        left: -8% !important;
+    }
+
+    .holderCircle {
+        width: 200px;
+        height: 200px;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+
+    .ost {
+        margin-top: 20px;
+    }
+    .count_y {
+        background-size: cover;
+    }
+    .dottt {
+        margin-top: 20px;
+    }
+    .sliding {
+        margin-top: 20px;
+    }
+    .count_y {
+        text-align: center;
+        margin-top: 20px;
+        padding: 100px 0;
+        min-height: 180px !important;
+        background-image: url(../images/y.png);
+        background-repeat: no-repeat;
+    }
+    .tvc2 {
+        padding: 20px 0;
+    }
+
+    .count_y h1 {
+        font-family: 'Monoton', cursive;
+        text-align: center;
+        color: red;
+        font-size: 20px;
+    }
+    .tvc2 h1 {
+        font-family: 'Russo One', sans-serif;
+        text-align: center;
+        color: orangered;
+        font-size: 15px;
+    }
+    .counter {
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+    }
+
+    .dottt {
+        min-height: 700px;
+        background-image: url(../images/1258408963339.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .contentCircle {
+        top: 330px;
+    }
+
+}
+
+
+
+
+
+
+
+
+/*/ Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+/*@media (min-width: 1200px) { ... } */
